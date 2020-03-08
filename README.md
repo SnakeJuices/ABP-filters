@@ -1,2 +1,0 @@
-# SnakeJuices
-Hello World
